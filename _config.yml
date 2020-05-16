@@ -7,7 +7,7 @@
 
 # Site settings
 title: 郦超琪的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: Java and Python Coder // maybe...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://643435675.github.io" # the base hostname & protocol for your site
 
